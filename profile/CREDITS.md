@@ -1,0 +1,76 @@
+# Credits
+
+The ground floor image on the [Draftrig profile](https://github.com/draftrig) uses these 3D models. Each is by the author named and is used under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) licence. They were reduced in size for Draftrig.
+
+- [3D Router](https://sketchfab.com/3d-models/3d-router-fc90c018647c4fd1a3a9f62559bf67f0) by SanForge Studio
+- [6 Axis Industrial Robot Arm](https://sketchfab.com/3d-models/6-axis-industrial-robot-arm-3ecc74c22c584b2b8295f17dedcdb89f) by Jayson Stauffer
+- [8-channel Audio Mixer](https://sketchfab.com/3d-models/8-channel-audio-mixer-e28440b16df348dbaffbc7f20d7cb8bf) by nofnol
+- [\[CC0\] Generic Multimeter](https://sketchfab.com/3d-models/cc0-generic-multimeter-f7b47524f3cb4af6a8e7ae1bbe21f671) by literallylara
+- [\[CC0\] Generic Soldering Station](https://sketchfab.com/3d-models/cc0-generic-soldering-station-87789d4f4c5b43069a5dd47819f4b4a8) by literallylara
+- [Acoustic Foam Bass Trap - Pulse](https://sketchfab.com/3d-models/acoustic-foam-bass-trap-pulse-9980b3db139f4819b73d6b820ba012d0) by weyounvi
+- [acoustic panel](https://sketchfab.com/3d-models/acoustic-panel-0e20721988894b8eac7b71cf3cdfef4b) by photon (that one larry)
+- [Acoustic Wall Board](https://sketchfab.com/3d-models/acoustic-wall-board-71dcc2d08f5349259f5ea3b9c290c2d2) by Ramesh0208
+- [Adjustable Wooden Desk](https://sketchfab.com/3d-models/57ba9e7b17464b58998e91f05dae9035) by twopixels
+- [Air Conditioner](https://sketchfab.com/3d-models/air-conditioner-777cbe0d26aa4f1588050419ec24f4e4) by Daniyal Malik
+- [Air purifier](https://sketchfab.com/3d-models/air-purifier-498fa6beb665493c9bee007b9defd79f) by Speed
+- [Arcade Cabinet](https://sketchfab.com/3d-models/arcade-cabinet-b0cf90709d634eee9b104bd6cb13cb1d) by joshtmc
+- [Basic PC case](https://sketchfab.com/3d-models/basic-pc-case-2869fb18575d49128a3115d42d5d3826) by Sousinho
+- [bean bag](https://sketchfab.com/3d-models/bean-bag-eedcb0d058f64062bbfd19a51cc1a9a8) by zarab.
+- [Camera With Tripod](https://sketchfab.com/3d-models/camera-with-tripod-cc324baf6dc548de965c3a47b87f1e27) by FatWasHere
+- [cinema/movie theater_\[seat\]](https://sketchfab.com/3d-models/cinemamovie-theater-seat-b8bcabfa355d4137910ef2e45b56b9bc) by Comicaroid
+- [Corded Milling Machine FREE](https://sketchfab.com/3d-models/corded-milling-machine-free-f5236fcf79ac40869f6f4bccb9155ef5) by Lady Lion Studios
+- [Denon AVR-X3400H](https://sketchfab.com/3d-models/denon-avr-x3400h-93c8fd6ec4794bc39dff457cd2a4268b) by James Preston Cardona
+- [Dining Table Glass](https://sketchfab.com/3d-models/dining-table-glass-c41a27d7a1b24dc484bc603e1bc2d0ef) by Francesco Coldesina
+- [DJ Controller](https://sketchfab.com/3d-models/dj-controller-1488495e0b374f1a9c38918b350be251) by James.Hasegawa
+- [Drill Press](https://sketchfab.com/3d-models/drill-press-c89d0f20cb9e421c94606540df665d82) by Scanamatics
+- [Electric Scooter](https://sketchfab.com/3d-models/electric-scooter-f3785071e9244d83ba311b7da48a1085) by Gest.lt
+- [ELECTRIC VEHICLE CHARGING POINT TRYDAN](https://sketchfab.com/3d-models/electric-vehicle-charging-point-trydan-84519d64d27545f880aa3bbad47ef222) by V2C
+- [Floor Lamp](https://sketchfab.com/3d-models/floor-lamp-0143e8771329468aa3a37746bbe7d62a) by HippoStance
+- [Gaming Chair](https://sketchfab.com/3d-models/gaming-chair-free-download-bcb13eb7ef9e4c3c9499aacff6c79757) by Karlos
+- [Guitar amplifier](https://sketchfab.com/3d-models/guitar-amplifier-986c95d1d84e44929f6cebfc170fe71b) by Víctor Hernández
+- [Industrial Table](https://sketchfab.com/3d-models/industrial-table-5f94fb035fa74f43abda3ada8f0a719e) by Elasta Kristya
+- [Leather Recliner Couch](https://sketchfab.com/3d-models/leather-recliner-couch-284a1e2522404c72bcd28b2e92c4850e) by R-LAB
+- [LG moniter](https://sketchfab.com/3d-models/lg-moniter-f899bb43701f4e95b1e44c4bf21ed29c) by Mohamed Ahmed
+- [MacBook Pro 16" 2021](https://sketchfab.com/3d-models/macbook-pro-16-2021-8ac16bda501c4bcc8ba93ac3eb63a8e1) by rtql8d
+- [Mechanical Keyboard - Aesthetic](https://sketchfab.com/3d-models/mechanical-keyboard-aesthetic-44bb12d306864e2cb4256a61d4168942) by M.Reslan
+- [Microwave Oven](https://sketchfab.com/3d-models/microwave-oven-3421e492257f40959859104f46128304) by MustafaYerebasmaz
+- [Midi Controller Keyboard](https://sketchfab.com/3d-models/midi-controller-keyboard-1d5198102a4746c48f68fc30817479ba) by Kyler Michaelson
+- [MINI ENGRAVER - laser](https://sketchfab.com/3d-models/mini-engraver-laser-0d55d2cc4a2a4c36b5d6662499f0572d) by YouniqueĪdeaStudio
+- [MK2 1210 Turntable - Old](https://sketchfab.com/3d-models/mk2-1210-turntable-old-201817db6b0d45c29ead1b3b65b33b94) by GRIP420
+- [Monstera plant](https://sketchfab.com/3d-models/monstera-plant-5b6b86b22c09491fb456e0bfde86cc9a) by INTERIA
+- [Network Switching](https://sketchfab.com/3d-models/network-switching-ffc2e813f20141169e6f97bd1ae08385) by hjhj87
+- [Not-too-modern fridge](https://sketchfab.com/3d-models/not-too-modern-fridge-fe9bd6617f924ac096cb37e2157c4d2a) by anDDDres
+- [Office Chair](https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63) by j.a.m
+- [Oscilloscope](https://sketchfab.com/3d-models/oscilloscope-54067b53146d467987bc2c72ec604645) by Neg0Die
+- [Part 1 - Optimized Speakers Pack](https://sketchfab.com/3d-models/part-1-optimized-speakers-pack-1e0403a0e5044a0395e4b4fa9325a872) by NDnxST
+- [Persian Tabriz Pictorial Carpet](https://sketchfab.com/3d-models/persian-tabriz-pictorial-carpet-0ce2fc1e54724cb79cbb08ab2182760a) by mfb64
+- [Photon's optimized Center speaker](https://sketchfab.com/3d-models/photons-optimized-center-speaker-fb7c123ad76f459284c1af7839d47df6) by photon (that one larry)
+- [Power Supply Device](https://sketchfab.com/3d-models/power-supply-device-62afc655988f4960b127afaacbe1e9a7) by stella.apparatus
+- [Projector Screen_7MB](https://sketchfab.com/3d-models/projector-screen-7mb-cac0e255058348558715109b97697e07) by Mehdi Shahsavan
+- [Prusa 3D Printer](https://sketchfab.com/3d-models/prusa-3d-printer-2a15897d26c94941bc0132cf130169da) by Alvaro A.
+- [PSI5-2200RT120](https://sketchfab.com/3d-models/psi5-2200rt120-239d6100ac1a468ab54f343aff0da950) by Vertiv
+- [Quadrocopter 2](https://sketchfab.com/3d-models/quadrocopter-2-6885c5f1a68148e1b2b3a4f69b8b3d70) by yanix
+- [Reclaimed TV Stand / Furniture](https://sketchfab.com/3d-models/reclaimed-tv-stand-furniture-1fd5aaf7ede3441986d193403aa36893) by maxsbond.work
+- [Retro-style Desk Fan](https://sketchfab.com/3d-models/retro-style-desk-fan-79bb384f2ed545a5ae8c2b9cfa06cd8f) by futaba@blender
+- [Robot vacuum cleaner low poly](https://sketchfab.com/3d-models/robot-vacuum-cleaner-low-poly-7230d8d80e8b4a82b4a34a5e7926d0d3) by Moryak
+- [Security Camera](https://sketchfab.com/3d-models/security-camera-7da2489681d749fda57ffdf1db9f0419) by Bryan
+- [Server V2 +console](https://sketchfab.com/3d-models/server-v2-console-f24594ece9634cec9c1210c041838371) by FlevasGR
+- [Small Tv Stand](https://sketchfab.com/3d-models/small-tv-stand-4768d6fef8734c7aa99321f6b6b3c520) by Andrej Grave
+- [Smart Speaker](https://sketchfab.com/3d-models/smart-speaker-3ac06c2caa7943eaaa4de019b01c09c4) by Annelida
+- [Solar Panel](https://sketchfab.com/3d-models/solar-panel-8f094196d83e43fb9865df4c7501a930) by AERO3D
+- [space Heater](https://sketchfab.com/3d-models/space-heater-7b35843ab9364ca695f11224698efabe) by Tom Seddon
+- [Standing Desk](https://sketchfab.com/3d-models/standing-desk-16a889b775c04ad79bd24413a44df9f3) by Superenforcer_xp
+- [Studio Softbox Light](https://sketchfab.com/3d-models/studio-softbox-light-69e42ce9306249c2995ff196ab0ed8ad) by Glowbox 3D
+- [Subwoofer Sealed Speaker](https://sketchfab.com/3d-models/subwoofer-sealed-speaker-948dc1d2461c4ddfba2538fc3f8429b6) by Eveston - Elite Big Speakerman - Hugo
+- [Synthesizer](https://sketchfab.com/3d-models/synthesizer-736c46af07c54a7fb0eb6f93a6398cdf) by Michael Perez
+- [Telescope](https://sketchfab.com/3d-models/telescope-7220b6283360440fbbf8ccff08e25a7f) by Francesco Coldesina
+- [Thermostat & Fire Alarm (v1.1) FBX Low Poly FREE](https://sketchfab.com/3d-models/thermostat-fire-alarm-v11-fbx-low-poly-free-d928ff87322f455ebb3c631b63937578) by Lady Lion Studios
+- [Tool Chest](https://sketchfab.com/3d-models/tool-chest-7bdb028ee24e473c9c44f0aefdf1641e) by Fredrik Johansen
+- [Tripod ring lamp](https://sketchfab.com/3d-models/tripod-ring-lamp-f575d679f08a4ab880a683ce3a896a58) by Buf
+- [TV Stand](https://sketchfab.com/3d-models/tv-stand-f6b71d3807d74be69b46cb7b2f2743ad) by Blaž Mraz
+- [Ultrawide Monitor](https://sketchfab.com/3d-models/ultrawide-monitor-f84d24b6df3648d884fd9be9c8007dd4) by dylanheyes
+- [VR Headset Free Model](https://sketchfab.com/3d-models/vr-headset-free-model-51b8dbff65e247979f068914f6197909) by Vitamin
+- [Washing Machine](https://sketchfab.com/3d-models/washing-machine-67549616d13246cfb1a540f9d6969078) by Francesco Coldesina
+- [Wooden Sim Rig](https://sketchfab.com/3d-models/wooden-sim-rig-9e981348b57e467b9771b2f6e5aa3bfe) by Jamie Hamel-Smith
+- [Workbench](https://sketchfab.com/3d-models/workbench-9634d6a81a494925a909512c8048f446) by JJ Chalupnik
+- [Yamaha HS5 Studio Monitor](https://sketchfab.com/3d-models/yamaha-hs5-studio-monitor-eec7203e4f964fa5976df3afee33f946) by Ivan_WSK

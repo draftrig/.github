@@ -13,4 +13,6 @@ It's free, and you don't need an account.
 
 **[Open Draftrig](https://draftrig.com)** · [Report a bug or request a part](https://github.com/draftrig/feedback/issues/new/choose)
 
-<img alt="The Draftrig editor" src="https://raw.githubusercontent.com/draftrig/.github/main/profile/editor.jpg" width="100%">
+<img alt="A ground floor of seven rooms laid out with 89 parts: a home cinema, a studio, an office with server racks, a kitchen, a gaming room, a workshop and a garage" src="https://raw.githubusercontent.com/draftrig/.github/main/profile/ground-floor.jpg" width="100%">
+
+<sub>The 3D models in this image are by their authors and used under CC BY 4.0. [See the credits](https://github.com/draftrig/.github/blob/main/profile/CREDITS.md).</sub>
