@@ -9,7 +9,7 @@ Draftrig is a 3D planner for any kind of tech, and it runs in your browser. Lay 
 
 For electronics it goes down to the circuit: wire an Arduino or an ESP32 on a breadboard, run a sketch, and watch the voltages and currents while it runs.
 
-It's free, and you don't need an account.
+
 
 **[Open Draftrig](https://draftrig.com)** · [Report a bug or request a part](https://github.com/draftrig/feedback/issues/new/choose)
 
